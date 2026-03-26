@@ -735,7 +735,7 @@ A: Yes! The grid size dropdown regenerates a new maze instantly. All agents will
 
 ---
 
-**Made with ❤️ by Aryan27-max
+**Made with ❤️ by Aryan27-max**
 
 ⭐ If you find this useful, please consider giving it a star on GitHub!
 
