@@ -732,26 +732,10 @@ A: Uses Q-learning, a Reinforcement Learning technique. Over 220 episodes, it up
 **Q: Can I change the maze size dynamically?**
 A: Yes! The grid size dropdown regenerates a new maze instantly. All agents will navigate the new layout.
 
----
-
-## 📞 Support & Questions
-
-- 🐛 **Found a bug?** Open an [Issue](https://github.com/YOUR_USERNAME/types-of-ai-agents/issues)
-- 💬 **Have a question?** Start a [Discussion](https://github.com/YOUR_USERNAME/types-of-ai-agents/discussions)
-- 📧 **Email:** [your-email@example.com]
 
 ---
 
-## 🎉 Acknowledgments
-
-- Inspired by Russell & Norvig's **"Artificial Intelligence: A Modern Approach"**
-- Built with [Next.js](https://nextjs.org), [React](https://react.dev), and [Tailwind CSS](https://tailwindcss.com)
-- Animations by [Framer Motion](https://www.framer.com/motion)
-- Fonts from [Google Fonts](https://fonts.google.com)
-
----
-
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Aryan27-max
 
 ⭐ If you find this useful, please consider giving it a star on GitHub!
 
